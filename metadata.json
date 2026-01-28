@@ -1,0 +1,7 @@
+{
+  "name": "BannerPro AI - Store & Gamer Creator",
+  "description": "A professional platform for creating high-impact banners for commercial stores and the gaming universe, powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
